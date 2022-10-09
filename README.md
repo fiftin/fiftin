@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Ansible Semaphore &mdash; modern UI for Ansible. It is a best alternative to AWX.
 
-Support my work on: (Ko-fi)[https://ko-fi.com/fiftin].
+Support my work on: [Ko-fi](https://ko-fi.com/fiftin).
 
 Follow Semaphore on Twitter ([AnsibleSem](https://twitter.com/AnsibleSem)) and StackShare ([ansible-semaphore](https://stackshare.io/ansible-semaphore)).
 
